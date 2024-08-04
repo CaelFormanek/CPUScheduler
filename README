@@ -1,11 +1,3 @@
-Completing this project will require writing the following C files:
-
-schedule_fcfs.c - done
-schedule_sjf.c - done
-schedule_rr.c - done
-schedule_priority.c - done
-schedule_priority_rr.c - done
-
 The supporting files invoke the appropriate scheduling algorithm. 
 
 For example, to build the FCFS scheduler, enter
